@@ -1,0 +1,1 @@
+In order to test the tasks I let lines 139-141 in Ball.h to be able to let the ball bounce infinite.

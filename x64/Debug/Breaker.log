@@ -1,0 +1,28 @@
+﻿  Main.cpp
+D:\BreakerGame\Breaker\Ball.h(49,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(50,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(60,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(63,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(73,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(78,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(81,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(83,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(106,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(107,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(110,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(112,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(125,47): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\BreakerGame\Breaker\Ball.h(126,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(129,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(132,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(135,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(138,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Ball.h(140,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Main.cpp(8,46): warning C4584: 'MyFramework': base-class 'Level1' is already a base-class of 'Ball'
+D:\BreakerGame\Breaker\Level1.h(4): message : see declaration of 'Level1'
+D:\BreakerGame\Breaker\Ball.h(6): message : see declaration of 'Ball'
+D:\BreakerGame\Breaker\Main.cpp(35,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Main.cpp(35,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Main.cpp(67,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BreakerGame\Breaker\Main.cpp(67,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Breaker.vcxproj -> D:\BreakerGame\Breaker\x64\Debug\Breaker.exe
